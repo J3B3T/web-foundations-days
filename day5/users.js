@@ -1,4 +1,4 @@
- const loadButton = document.getElementById("load-users");
+const loadButton = document.getElementById("load-users");
 const filterInput = document.getElementById("filter-input");
 const status = document.getElementById("status");
 const usersList = document.getElementById("users-list");
