@@ -1,0 +1,7 @@
+ # Day 8 Reflection
+
+The most difficult concept in this course was understanding how a system can handle many users making requests at the same time without producing incorrect results. At first, concepts such as load balancing, database transactions, caching, and scalability seemed complicated because they involve different parts of a system working together. I overcame this challenge by breaking the design into smaller components and learning the purpose of each one. For example, I understood that adding application servers helps handle more requests, while database transactions and constraints protect important data from conflicting updates.
+
+Based on the feedback and review of my capstone, I would improve the architecture diagram and explain more clearly how requests move between the client, application servers, database, and external services. I would also strengthen the explanation of how the system handles failures, retries, and high traffic. This would make the design easier to understand and show how the proposed components work together rather than simply listing them.
+
+Next, I want to learn more about backend development, SQL, and REST APIs by building a small working application. I would also like to explore cloud computing, deployment, monitoring, and automated testing. These skills will help me understand how system designs are implemented in real projects. Overall, the course has helped me think beyond writing code and consider performance, reliability, correctness, security, and the experience of users when designing software systems.
